@@ -9,5 +9,3 @@ HTML and CSS starter code was already written but Javascript was created off tho
 When password is generated a series of prompts will display giving the password criteria; length between 8 and 128 characters followed by the password options.
 
 application runs as it should and displays generated password after prompts displayed and criteria is met.
-
-Attached screenshots of prompts and generated password:
